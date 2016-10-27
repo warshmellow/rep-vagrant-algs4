@@ -12,3 +12,4 @@ sudo mv algs4.jar /home/vagrant/algs4/.
 sudo echo "export CLASSPATH=$CLASSPATH:~/algs4/algs4.jar" > /home/vagrant/.bash_profile
 source /home/vagrant/.bash_profile
 sudo apt-get --yes --force-yes install maven
+sudo apt-get --yes --force-yes install git
